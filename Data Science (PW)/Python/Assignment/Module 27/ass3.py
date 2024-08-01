@@ -1,0 +1,3 @@
+# Q3 What is app routing in Flask ? Why do we use app routes?
+
+# App routing in Flask is the process of linking URLs to functions that handle requests. It allows you to define what content or actions should be triggered when a user visits a specific URL. For example, `@app.route('/')` maps the root URL to a function that returns the home page content. This helps organize and manage different parts of your web application effectively.
